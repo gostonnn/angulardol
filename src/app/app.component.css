@@ -24,3 +24,12 @@ button{
 .name{
     color: green;
 }
+
+.keret{
+    border-style: double;
+    border-width: thick;
+    max-width: 50%;
+    overflow: hidden;
+    margin: auto;
+    margin-top: 10px;
+}
